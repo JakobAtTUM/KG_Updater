@@ -246,7 +246,6 @@ def main():
     if build_graph:
         build_knowledge_graph(driver, companies, date_range, included_nodes, search_depth)
 
-    filepath = "files/benchmarking_data/synthetic_articles_benchmarked.json"
     filepath = "files/benchmarking_data/demo_article.json"
 
     if update_graph:
