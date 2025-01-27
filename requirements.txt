@@ -1,0 +1,6 @@
+neo4j~=5.0
+colorama
+configparser
+google-generativeai
+requests
+newspaper4k
